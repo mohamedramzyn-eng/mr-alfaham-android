@@ -1,0 +1,7 @@
+{
+  "appId": "com.mralfaham.app",
+  "appName": "عالفحم MR",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#FFFFFF" }
+}
